@@ -12,7 +12,7 @@ fonte: [twitter](https://twitter.com/fameal/status/1424857239505018880)
 
 ##### 1
 
-Há um jeito novo de sempre ter o merlhor rendimento possível. Um jieto simples:
+Há um jeito novo de sempre ter o merlhor rendimento possível. Um jeito simples:
 
 🏹 https://bowswap.finance
 
@@ -22,7 +22,7 @@ Agora você pode mudar entre os Vaults de [@iearnfinance](https://twitter.com/ie
 
 ##### 2
 
-Nesta primeira versão você pode trocar entre alguns Vaults que usam Curve LP uqe possuem o mesmo metapool.
+Nesta primeira versão você pode trocar entre alguns Vaults que usam Curve LP e que possuem o mesmo metapool.
 
 ##### 3
 
