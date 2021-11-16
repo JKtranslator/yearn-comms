@@ -12,7 +12,7 @@ fonte: [twitter](https://twitter.com/fameal/status/1424857239505018880)
 
 ##### 1
 
-Há um jeito novo de sempre ter o merlhor rendimento possível. Um jeito simples:
+Há um jeito novo de sempre ter o melhor rendimento possível. Um jeito simples:
 
 🏹 https://bowswap.finance
 
